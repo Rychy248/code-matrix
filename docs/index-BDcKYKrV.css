@@ -1,0 +1,1 @@
+:root{--color1: #c6cdd1;--color2: #f8cb25;--color3: #e01570;--color4: #00b4ae}body,#root{margin:0;padding:0;border:0;width:100%}h1{color:var(--color1)}h2{color:var(--color2)}h3{color:var(--color3)}h4{color:var(--color4)}h5{color:var(--color1)}h6{color:var(--color2)}.color1{color:var(--color1)}.color2{color:var(--color2)}.color3{color:var(--color3)}.color4{color:var(--color4)}
