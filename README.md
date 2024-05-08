@@ -1,2 +1,4 @@
-# code-matrix
-Hello world, this is my repo for my test
+
+
+# Hello There! :)
+Welcome to my work for this code test, I hope you'll enjoy it!
